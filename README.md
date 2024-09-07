@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/austinliner/osticket-post-install-configuration)
 
 - <b>Microsoft Azure</b>
+  - [Creating Resoure Groups and Virtual Machines wiht Microsoft Azure]
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/austinliner/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
