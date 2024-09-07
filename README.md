@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating Resoure Groups and Virtual Machines with Microsoft Azure](https://github.com/austinliner/create-vms)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/austinliner/configure-ad/tree/main)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/austinliner/azure-network-protocols/tree/main)
 
 <h2>🤳Connect with me:</h2>
 
